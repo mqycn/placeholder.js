@@ -3,7 +3,10 @@
 引用后，使用HTML5 中 placeholder 编写的页面，无需做任何改动，系统全自动分析并处理。
 
 在IE8模式下的显示效果（CSS请自行补充）：
-![使用后的效果](https://git.oschina.net/uploads/images/2017/0901/174950_f4e57ca3_82383.jpeg "placeholder.jpg")
+
+
+![输入图片说明](https://git.oschina.net/uploads/images/2017/0901/175124_6d4fc286_82383.png "placeholder.png")
+
 
 ```
 <div class="form-group">
