@@ -1,0 +1,76 @@
+body {
+    /* ÕûÒ³ÉèÖÃ */
+    background-color: #089CEF;
+    padding-top: 60px;
+}
+
+h2{
+	font-family: Impact;
+	text-align: center;
+	font-size:28px;
+	margin-bottom:40px;
+	color: #FFF;
+}
+
+.container-login {
+    /* µÇÂ¼Ò³Ãæ */
+    margin-top: 50px;
+}
+
+.container-login .panel-login {
+    background: transparent;
+    border: 0;
+    box-shadow: none;
+}
+
+.container-login .panel-login .panel-heading {
+    background: transparent;
+    border: 0;
+    font-size: 18px;
+    color: #FFF;
+    padding: 0;
+}
+
+.container-login .panel-login input {
+    background: #2875BC;
+    border-color: #1865AC;
+    color: #FFF;
+}
+
+.container-login .panel-login input::-webkit-input-placeholder {
+    color: #91D3F8;
+}
+
+.container-login .panel-login input::-moz-placeholder {
+    color: #91D3F8;
+}
+
+.container-login .panel-login input:-ms-input-placeholder {
+    color: #91D3F8;
+}
+
+.container-login .panel-login .input-group-image {
+    padding: 0;
+}
+
+.container-login .panel-login .form-buttons {
+    padding-top: 20px;
+}
+
+.container-login .panel-login .form-buttons .btn-master {
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+@media screen and (min-width:950px) {
+    /* ´óÆÁÄ»£¨PC£© */
+    body {
+        font-family: 'Microsoft Yahei';
+    }
+
+    .container-login {
+        /* µÇÂ¼Ò³Ãæ */
+        width: 400px;
+        max-width: 400px;
+    }
+}
