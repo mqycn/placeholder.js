@@ -97,7 +97,7 @@
             //防止在 respond.min.js和html5shiv.min.js之前执行
             setTimeout(function() {
                 placeholderListener.add('input').add('textarea');
-            }, 50);
+            }, 0);
         });
     }
 })();
