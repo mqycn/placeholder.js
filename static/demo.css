@@ -1,5 +1,5 @@
 body {
-    /* ÕûÒ³ÉèÖÃ */
+    /* æ•´é¡µè®¾ç½® */
     background-color: #089CEF;
     padding-top: 60px;
 }
@@ -13,7 +13,7 @@ h2{
 }
 
 .container-login {
-    /* µÇÂ¼Ò³Ãæ */
+    /* ç™»å½•é¡µé¢ */
     margin-top: 50px;
 }
 
@@ -63,13 +63,13 @@ h2{
 }
 
 @media screen and (min-width:950px) {
-    /* ´óÆÁÄ»£¨PC£© */
+    /* å¤§å±å¹•ï¼ˆPCï¼‰ */
     body {
         font-family: 'Microsoft Yahei';
     }
 
     .container-login {
-        /* µÇÂ¼Ò³Ãæ */
+        /* ç™»å½•é¡µé¢ */
         width: 400px;
         max-width: 400px;
     }
